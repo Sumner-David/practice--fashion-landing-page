@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "animejs": "^3.2.1",
-    "gsap": "^3.7.1"
+    "gsap": "^3.7.1",
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0"
   }
 }
